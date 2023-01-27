@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pet-react-calc/static/css/main.372498fd.css",
+    "main.js": "/Pet-react-calc/static/js/main.b36143c2.js",
+    "index.html": "/Pet-react-calc/index.html",
+    "main.372498fd.css.map": "/Pet-react-calc/static/css/main.372498fd.css.map",
+    "main.b36143c2.js.map": "/Pet-react-calc/static/js/main.b36143c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.372498fd.css",
+    "static/js/main.b36143c2.js"
+  ]
+}
